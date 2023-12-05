@@ -3,20 +3,29 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "forest_lodge.tmx",
+    "activeFile": "forest_lodge-overlap.tmx",
     "expandedProjectPaths": [
         "."
     ],
+    "exportAsImage.useCurrentScale": true,
     "fileStates": {
         "": {
             "scaleInDock": 1
+        },
+        "forest_lodge-overlap.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 248.75,
+                "y": 203.5
+            }
         },
         "forest_lodge.tmx": {
             "scale": 1.7871875,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 256.5483476132191,
-                "y": 157.51005420528065
+                "x": 233.8870431893688,
+                "y": 157.78982339569853
             }
         },
         "gb-trans.tsx": {
@@ -43,13 +52,15 @@
     "openFiles": [
         "forest_lodge.tmx",
         "gb.tsx",
-        "gb-trans.tsx"
+        "gb-trans.tsx",
+        "forest_lodge-overlap.tmx"
     ],
     "project": "gb-mini-pixel-world.tiled-project",
     "recentFiles": [
-        "gb-trans.tsx",
-        "gb.tsx",
         "forest_lodge.tmx",
+        "gb.tsx",
+        "gb-trans.tsx",
+        "forest_lodge-overlap.tmx",
         "roads_sandbox.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
